@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_api_key">AIzaSyCZ1SIxYNp6RPMo-2liyh06ls5PBUjA6bg</string>
+    <string name="title_activity_map_restaurant">MapRestaurantActivity</string>
+</resources>
